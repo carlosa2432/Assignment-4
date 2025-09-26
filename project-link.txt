@@ -1,11 +1,1 @@
-Task Management:
-Kanban manages tasks continuously by moving them across columns with limits on work in progress, while Scrum organizes tasks into time-boxed sprints with a defined scope.
-
-Workflows:
-Kanban uses a continuous workflow that is flexible and visual. Scrum uses a sprint-based workflow, which is structured and time-bound. Scrum is easier to manage when deadlines are strict, while Kanban is easier for ongoing projects.
-
-Flexibility:
-Kanban is very flexible but may lack structure if not monitored. Scrum provides structure but can be rigid if tasks change mid-sprint.
-
-Suitability:
-For a real-world gallery website project, Scrum would work best if there are strict deadlines (such as an art event). Kanban would work best for long-term maintenance and gradual improvements.
+https://calstatela-cs3338.atlassian.net/jira/projects?page=1&sortKey=name&sortOrder=ASC&types=software%2Cbusiness
