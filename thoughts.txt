@@ -1,0 +1,3 @@
+We learned how Jira helps visualize work with Kanban and Scrum boards. 
+We liked the ability to assign tasks, set priorities, and track progress visually. 
+We would like to learn more about Jira automation features, integrations with GitHub, and advanced reporting for analytics.
